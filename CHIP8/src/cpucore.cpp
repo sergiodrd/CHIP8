@@ -44,3 +44,116 @@ void funcf(opcode o) {
 			memx(o);
 	}
 }
+
+// Instructions
+
+void clrscrn(opcode o) {
+
+}
+
+void subrtret(opcode o) {
+
+}
+
+void jmp(opcode o) {
+
+}
+
+void subrtcall(opcode o) {
+
+}
+
+void skipxnn(opcode o) {
+
+}
+
+void skipnotxnn(opcode o) {
+
+}
+
+void skipxy(opcode o) {
+
+}
+
+void setxnn(opcode o) {
+
+}
+
+void addxnn(opcode o) {
+
+}
+
+void setxy(opcode o) {
+
+}
+
+void orxy(opcode o) {
+
+}
+
+void andxy(opcode o) {
+
+}
+void xorxy(opcode o) {
+
+}
+
+void addxy(opcode o) {
+
+}
+
+void subxy(opcode o) {
+
+}
+
+void shiftxy(opcode o) {
+
+}
+
+void skipnotxy(opcode o) {
+
+}
+
+void seti(opcode o) {
+
+}
+
+void jmpoff(opcode o) {
+
+}
+
+void rnd(opcode o) {
+
+}
+
+void display(opcode o) {
+
+}
+
+void skipifkey(opcode o) {
+
+}
+
+void timers(opcode o) {
+
+}
+
+void addi(opcode o) {
+
+}
+
+void getkey(opcode o) {
+
+}
+
+void font(opcode o) {
+
+}
+
+void deccon(opcode o) {
+
+}
+
+void memx(opcode o) {
+
+}
