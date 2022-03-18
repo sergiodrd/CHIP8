@@ -11,7 +11,7 @@ int main(int argc, char* argv[]) {
 	uint16_t I;
 
 	// Read ROM file and copy to memory
-	std::string fileName = (argc == 2) ? argv[1] : "C:\\Dev\\CHIP8\\CHIP8\\IBMLogo.ch8";
+	std::string fileName = (argc == 2) ? argv[1] : "../../CHIP8/IBMLogo.ch8";
 	std::ifstream infile(fileName, std::ios::binary);
 	copyFileToMemory(infile, memory);
 	
